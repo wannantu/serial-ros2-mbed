@@ -1,0 +1,6 @@
+source;share/seiral/hook/pythonpath.ps1
+source;share/seiral/hook/pythonpath.dsv
+source;share/seiral/hook/pythonpath.sh
+source;share/seiral/hook/ament_prefix_path.ps1
+source;share/seiral/hook/ament_prefix_path.dsv
+source;share/seiral/hook/ament_prefix_path.sh

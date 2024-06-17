@@ -1,0 +1,38 @@
+[1.074s] Invoking command in '/home/murakami/karakuri_ws/src/seiral': PYTHONPATH=/home/murakami/karakuri_ws/build/seiral/prefix_override:/home/murakami/karakuri_ws/install/seiral/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/seiral build --build-base /home/murakami/karakuri_ws/build/seiral/build install --record /home/murakami/karakuri_ws/build/seiral/install.log --single-version-externally-managed
+[1.328s] running egg_info
+[1.345s] writing ../../build/seiral/seiral.egg-info/PKG-INFO
+[1.346s] writing dependency_links to ../../build/seiral/seiral.egg-info/dependency_links.txt
+[1.346s] writing entry points to ../../build/seiral/seiral.egg-info/entry_points.txt
+[1.347s] writing requirements to ../../build/seiral/seiral.egg-info/requires.txt
+[1.347s] writing top-level names to ../../build/seiral/seiral.egg-info/top_level.txt
+[1.400s] reading manifest file '../../build/seiral/seiral.egg-info/SOURCES.txt'
+[1.403s] writing manifest file '../../build/seiral/seiral.egg-info/SOURCES.txt'
+[1.404s] running build
+[1.405s] running build_py
+[1.405s] copying seiral/serial_node.py -> /home/murakami/karakuri_ws/build/seiral/build/lib/seiral
+[1.406s] copying seiral/__init__.py -> /home/murakami/karakuri_ws/build/seiral/build/lib/seiral
+[1.407s] running install
+[1.408s] /home/murakami/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[1.408s] !!
+[1.408s] 
+[1.408s]         ********************************************************************************
+[1.408s]         Please avoid running ``setup.py`` directly.
+[1.408s]         Instead, use pypa/build, pypa/installer or other
+[1.409s]         standards-based tools.
+[1.409s] 
+[1.409s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[1.409s]         ********************************************************************************
+[1.409s] 
+[1.409s] !!
+[1.409s]   self.initialize_options()
+[1.417s] running install_lib
+[1.437s] running install_data
+[1.451s] copying resource/seiral -> /home/murakami/karakuri_ws/install/seiral/share/ament_index/resource_index/packages
+[1.452s] copying package.xml -> /home/murakami/karakuri_ws/install/seiral/share/seiral
+[1.452s] running install_egg_info
+[1.473s] removing '/home/murakami/karakuri_ws/install/seiral/lib/python3.10/site-packages/seiral-0.0.0-py3.10.egg-info' (and everything under it)
+[1.475s] Copying ../../build/seiral/seiral.egg-info to /home/murakami/karakuri_ws/install/seiral/lib/python3.10/site-packages/seiral-0.0.0-py3.10.egg-info
+[1.477s] running install_scripts
+[1.673s] Installing serial_node script to /home/murakami/karakuri_ws/install/seiral/lib/seiral
+[1.673s] writing list of installed files to '/home/murakami/karakuri_ws/build/seiral/install.log'
+[1.701s] Invoked command in '/home/murakami/karakuri_ws/src/seiral' returned '0': PYTHONPATH=/home/murakami/karakuri_ws/build/seiral/prefix_override:/home/murakami/karakuri_ws/install/seiral/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/seiral build --build-base /home/murakami/karakuri_ws/build/seiral/build install --record /home/murakami/karakuri_ws/build/seiral/install.log --single-version-externally-managed
